@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **ML projects**
 
-- 👨‍💻 All of my projects are available at [https://bento.me/pratik-wayal](https://bento.me/pratikwayal)
+- 👨‍💻 All of my projects are available at [Pratik Wayal](https://bento.me/pratikwayal)
 
 - 💬 Ask me about **Arduino,ROS**
 
 - 📫 How to reach me **pratikswayal123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wh5av3jBdiv8jY_B28QnZd7JNXoaSngl/view?usp=sharing](https://drive.google.com/file/d/1Wh5av3jBdiv8jY_B28QnZd7JNXoaSngl/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wh5av3jBdiv8jY_B28QnZd7JNXoaSngl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
