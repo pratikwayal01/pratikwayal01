@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **ML projects**
 
-- 👨‍💻 All of my projects are available at [https://bento.me/pratik-wayal](https://bento.me/pratik-wayal)
+- 👨‍💻 All of my projects are available at [https://bento.me/pratik-wayal](https://bento.me/pratikwayal)
 
 - 💬 Ask me about **Arduino,ROS**
 
