@@ -44,5 +44,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratikwayal01)](https://github.com/pratikwayal01)
 
-<!-- GitHub Profile Trophy -->
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pratikwayal01&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikwayal01&theme=github" alt="GitHub Activity Graph" />
+</p>
+
