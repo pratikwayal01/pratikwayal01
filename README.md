@@ -42,8 +42,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikwayal01&show_icons=true)](https://github.com/pratikwayal01)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratikwayal01)](https://github.com/pratikwayal01)
-
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=pratikwayal01&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikwayal01&theme=github" alt="GitHub Activity Graph" />
