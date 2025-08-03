@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikwayal01&label=Profile%20views&color=0e75b6&style=flat" alt="pratikwayal01" /> </p>
 
 <p align="left"> <a href="https://github.com/pratikwayal01"><img src="https://github-profile-trophy.vercel.app/?username=pratikwayal01" alt="pratikwayal01" /></a> </p>
 
-- 🔭 I’m currently working on [Cybrotics Website](https://github.com/pratikwayal01/Cybrotics-new-web)
+- 🔭 I’m currently working on [Bitecount](https://bitecount.live/)
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Opentelemetry**
 
-- 👯 I’m looking to collaborate on **Cybrotics Website**
+- 👯 I’m looking to collaborate on **Advanced Devops Projects**
 
-- 🤝 I’m looking for help with **ML projects**
+- 👨‍💻 All of my projects are available at [Pratik Wayal](https://devpratik.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [Pratik Wayal](https://bento.me/pratikwayal)
-
-- 💬 Ask me about **Arduino,ROS**
+- 💬 Ask me about **Arduino,ROS,Robotics,Devops,Postgres**
 
 - 📫 How to reach me **pratikswayal123@gmail.com**
 
