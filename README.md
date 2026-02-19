@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikwayal01&label=Profile%20views&color=0e75b6&style=flat" alt="pratikwayal01" /> </p>
 
-<p align="left"> <a href="https://github.com/pratikwayal01"><img src="https://github-profile-trophy.vercel.app/?username=pratikwayal01" alt="pratikwayal01" /></a> </p>
-
 - 🔭 I’m currently working on [Bitecount](https://bitecount.live/)
 -  🌱 I’m currently learning **Opentelemetry**
 - 👯 I’m looking to collaborate on **Advanced Devops Projects**
