@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikwayal01&label=Profile%20views&color=0e75b6&style=flat" alt="pratikwayal01" /> </p>
 
-- 🔭 I’m currently working on [Bitecount](https://bitecount.live/)
+- 🔭 I’m currently working on [Picolink](https://picolink.vercel.app/)
 -  🌱 I’m currently learning **Opentelemetry**
 - 👯 I’m looking to collaborate on **Advanced Devops Projects**
 - 👨‍💻 All of my projects are available at [Pratik Wayal](https://devpratik.vercel.app/)
