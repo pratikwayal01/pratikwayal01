@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikwayal01&label=Profile%20views&color=0e75b6&style=flat" alt="pratikwayal01" /> </p>
 
+```bash
+curl -L devpratik.vercel.app
+```
+
 - 🔭 I’m currently working on [Picolink](https://picolink.vercel.app/)
 -  🌱 I’m currently learning **Opentelemetry**
 - 👯 I’m looking to collaborate on **Advanced Devops Projects**
