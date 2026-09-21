@@ -31,6 +31,6 @@ curl -L devpratik.vercel.app
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikwayal01" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikwayal01&theme=github" alt="GitHub Activity Graph" />
-</p>
+</p> -->
