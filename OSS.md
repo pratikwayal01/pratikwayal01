@@ -8,10 +8,12 @@
 - Verified against Gateway API v1.6.2 (TCPRoute graduated to Standard in v1.6.0; `v1alpha2` deprecated, removal pending).
 - First merged OSS PR. 🎉
 
-## In review
-
 ### [external-secrets/external-secrets#6999](https://github.com/external-secrets/external-secrets/pull/6999) — Vault KV metadata path fallback fix
-- Corrects the metadata read path when Vault namespaces/prefixes are in play, so versioned secret metadata resolves instead of 404ing.
+- Fixes [#6968](https://github.com/external-secrets/external-secrets/issues/6968): a Vault `PushSecret` deadlocked because metadata was read from a path that did not account for the mount prefix, so the versioned secret metadata 404'd instead of resolving.
+- `buildMetadataPath` now strips the mount prefix, with a fallback to the legacy metadata path for setups that relied on the old lookup.
+- Covered by `make test` + `make check-diff`. First merged PR outside external-dns. 🎉
+
+## In review
 
 ### [argoproj/argo-cd#29728](https://github.com/argoproj/argo-cd/pull/29728) — multi-source autosync uses spec revisions
 - Auto-sync for multi-source apps compared against stale sync-status revisions instead of the spec's target revisions; now uses the spec. Includes regression test.

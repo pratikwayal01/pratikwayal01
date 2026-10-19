@@ -41,9 +41,9 @@ curl -L devpratik.vercel.app
 
 Merged:
 - [kubernetes-sigs/external-dns#6755](https://github.com/kubernetes-sigs/external-dns/pull/6755) — migrated Gateway API TCPRoute source to v1 (fixes #6749)
+- [external-secrets/external-secrets#6999](https://github.com/external-secrets/external-secrets/pull/6999) — Vault metadata fallback fix (fixes #6968)
 
 In review:
-- [external-secrets/external-secrets#6999](https://github.com/external-secrets/external-secrets/pull/6999) — Vault metadata fallback fix
 - [argoproj/argo-cd#29728](https://github.com/argoproj/argo-cd/pull/29728) — multi-source autosync revision fix
 - [BerriAI/litellm#41801](https://github.com/BerriAI/litellm/pull/41801) — cost calculator fix
 -->
