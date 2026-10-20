@@ -42,8 +42,10 @@ curl -L devpratik.vercel.app
 Merged:
 - [kubernetes-sigs/external-dns#6755](https://github.com/kubernetes-sigs/external-dns/pull/6755) — migrated Gateway API TCPRoute source to v1 (fixes #6749)
 - [external-secrets/external-secrets#6999](https://github.com/external-secrets/external-secrets/pull/6999) — Vault metadata fallback fix (fixes #6968)
+- [clastix/cluster-api-control-plane-provider-kamaji#425](https://github.com/clastix/cluster-api-control-plane-provider-kamaji/pull/425) — configurable pod/container security contexts (fixes #368)
 
 In review:
 - [argoproj/argo-cd#29728](https://github.com/argoproj/argo-cd/pull/29728) — multi-source autosync revision fix
+- [traefik/traefik-helm-chart#2042](https://github.com/traefik/traefik-helm-chart/pull/2042) — app.kubernetes.io/version label (fixes #2029)
 - [BerriAI/litellm#41801](https://github.com/BerriAI/litellm/pull/41801) — cost calculator fix
 -->
